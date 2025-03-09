@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+	      <name>chenna Releases Nexus Repository</name>
+	      <url>http://13.200.251.124:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-snapshot/</url>
+	      <name>chenna Snapshot Nexus Repository </name>
+	      <url>http://13.200.251.124:8081/repository/swifter_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
