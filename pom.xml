@@ -98,7 +98,7 @@
 	 <snapshotRepository>
 	      <id>nexus</id>
 	      <name>chenna Snapshot Nexus Repository </name>
-	      <url>http://13.200.251.124:8081/repository/swifter_snapshot/</url>
+	      <url>http://3.110.102.68:8081/repository/swifter/</url>
 	    </snapshotRepository>	
 	
 	    <repository>
