@@ -21,7 +21,7 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.201.94.158:9000/</sonar.host.url>
+		<sonar.host.url>http://13.204.65.142:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Chenna12</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	 <snapshotRepository>
 	      <id>nexus</id>
 	      <name>chenna Snapshot Nexus Repository </name>
-	      <url>http://http://13.201.121.198:8081/repository/swifter/</url>
+	      <url>http://13.206.99.133:8081/repository/web-application-snapshot/</url>
 	    </snapshotRepository>	
 	
 	    <repository>
 	      <id>nexus</id>
 	      <name>chenna Releases Nexus Repository</name>
-	      <url>http://13.201.121.198:8081/repository/maven-releases/</url>
+	      <url>http://13.206.99.133:8081/repository/web-application/</url>
 	    </repository>
 	    
 	    
