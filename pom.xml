@@ -98,13 +98,13 @@
 	 <snapshotRepository>
 	      <id>nexus</id>
 	      <name>chenna Snapshot Nexus Repository </name>
-	      <url>http://13.206.99.133:8081/repository/web-application-snapshot/</url>
+	      <url>http://13.200.251.27:8081/repository/web-application/</url>
 	    </snapshotRepository>	
 	
 	    <repository>
 	      <id>nexus</id>
 	      <name>chenna Releases Nexus Repository</name>
-	      <url>http://13.206.99.133:8081/repository/web-application/</url>
+	      <url>http://13.200.251.27:8081/repository/web-application-snapshot/</url>
 	    </repository>
 	    
 	    
